@@ -2,6 +2,11 @@
 A wardriving platform build upon the M5Stack Tab5 development board.
 
 
+<img width="1280" height="720" alt="bootscreen" src="https://github.com/user-attachments/assets/cbfb8bbb-e3c3-4d5c-832e-9722a2a5ffcd" />
+
+
+
+
 This project started with a simple question: what can the brand new M5Stack Tab5 actually do beyond its official documentation?
 
 The Tab5 is a powerful ESP32-P4 + ESP32-C6 based tablet with a 5-inch touchscreen, built-in WiFi, camera, microphone, SD card slot, and a removable NP-F series battery. It was released in early 2026 and at the time of this project, had almost no community knowledge base, minimal documentation, and several undiscovered firmware bugs.
@@ -84,7 +89,7 @@ The Tab5 Kit includes an NP-F550 battery (7.4V, 2000mAh) that clips to the back 
 
 **Key Features**
 
-- **WiF1i scanning** — every 15 seconds via ESP32-C6
+- **WiFi scanning** — every 15 seconds via ESP32-C6
 - **GPS NMEA parser** — reads $GNRMC and $GNGGA sentences at 115200 baud, extracts latitude, longitude, altitude, and satellite count
 - **GPS-fix-only logging** — networks are only written to the log when a valid GPS fix is confirmed (4+ satellites), ensuring every entry has real coordinates
 Satellite count display with colour coding (grey/red/yellow/green)
@@ -177,7 +182,7 @@ I also concluded that the Tab5 performs significantly better when running on its
 
 **So... What's next?**
 
-- **PrtSc button** — currntly the button visible is a placeholder awaiting for M5Stack camera API implementation
+- **PrtSc button** — currently the button visible is a placeholder awaiting for M5Stack camera API implementation
 - **SD card SPI mode** — Awaiting M5Stack conflict resolvement
 - **WiGLE direct upload** — direct upload from device to WiGLE
 
