@@ -62,6 +62,11 @@ This is probably the part that takes most of the time if you 3d print it yoursel
 
 <img width="1126" height="691" alt="image" src="https://github.com/user-attachments/assets/7fb3c4c3-fd0d-470d-bc06-34b76a87ed8b" />
 
+You can download this custom enclosure on my Printables page by hitting the download button below.
+
+<a href="https://www.printables.com/model/1777519-m5stack-tab5-cover-for-use-with-external-gps-anten">
+  <img src="https://github.com/Runaque/Random_dumps/blob/main/Download_350.png?raw=true" alt="M5Stack Tab5 Cover" width="350" />
+</a>
 
 ## The Build
 
