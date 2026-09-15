@@ -233,6 +233,18 @@ Do **NOT** copy-paste code directly into the UIFlow web text editor if your scri
 
 <img width="1280" height="578" alt="image" src="https://github.com/user-attachments/assets/c59e220b-d419-4734-94c2-1f1c17ec373a" />
 
+## M5Stack Global Innovation Contest 2026
+
+After receiving the M5Stack Tab5 Kit I started the same day working to make this development board a standalone "wardriver" and made good progress the first weekend working on it, despite I haven't received the GPS module. Once the module arrived, I made sure I could house everything in one single unit and implemented the GPS module also into the code so it starts registering the location of the found APs. It was in this period of development that I found out that M5Stack was running the "M5Stack Global Innovation Contest 2026" and decided to enter and probably wrote one of the longest project notes I have ever made to publish on Hackster.io to be able to enter this global contest.
+
+A much longer story short...
+
+🏆 **Awarded: M5Stack Global Innovation Contest 2026 - Special Mentions, Wireless Innovation Award**
+
+<img width="411" height="579" alt="image" src="https://github.com/user-attachments/assets/82c000c2-6bab-4cad-a260-b5ad1188733e" />
+
+[Results Link](https://m5stack.com/global-innovation-contest-2026/results)
+
 ## Support
 
 If you found this project interesting and helpful, consider [buying me a coffee](https://buymeacoffee.com/runaque)!
